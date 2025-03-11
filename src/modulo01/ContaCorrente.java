@@ -13,15 +13,12 @@ public class ContaCorrente {
     boolean ativo = true;
 
     void sacar(Double valorSolicitado){
-
     }
 
     void transferir(ContaCorrente contaDestino, double valorTransferido){
-
     }
 
     void cancelar(String justificativa){
-
     }
 
     List<String> consultarExtrato(LocalDate dataInicial, LocalDate dataFinal){
