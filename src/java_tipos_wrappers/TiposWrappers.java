@@ -6,8 +6,8 @@ public class TiposWrappers {
         int numeroInt = numeroDouble.intValue();
         System.out.println(numeroInt);
 
-        double da = 3.75;
-        int i = (int) da;
+        double d = 3.75;
+        int i = (int) d;
         System.out.println(i);
 
         String num = "100";
