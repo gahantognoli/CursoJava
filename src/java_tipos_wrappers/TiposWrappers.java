@@ -10,7 +10,7 @@ public class TiposWrappers {
         int i = (int) da;
         System.out.println(i);
 
-        String num = "100";
+        String num = "1000";
         var numInt = Integer.valueOf(num);
         System.out.println(numInt);
 
