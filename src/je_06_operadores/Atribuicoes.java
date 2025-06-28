@@ -11,6 +11,6 @@ public class Atribuicoes {
         char sexo = 'M';
         boolean doadorOrgao = false;
         Date dataNascimento = new Date();
-        System.out.println(nome); 
+        System.out.println(nome);
     }
 }
